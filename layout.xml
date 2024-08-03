@@ -30,7 +30,7 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
     <key key0="fn" key2="config" key5="ctrl" key6="tab" key7="esc" key8="alt"/>
   </row>
   <row height="1.25">
-    <key key1="0"/>
+    <key key1="0" key2="." key3="+" key4="*" key5="-" key6="/" key7=","/>
     <key key0="h" key1="{" key2="%" key3="[" key4="_" key5="(" key6="k" key7="ü" key8="ö"/>
     <key key0="d" key1="q" key2="p" key3="g" key4="j" key5="c" key6="b" key7="u" key8="o"/>
     <key key0="r" key1="|" key2="}" key3="\@" key4="]" key5="m" key6=")" key7="shift" key8="capslock"/>
@@ -43,7 +43,7 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
     <key key0="backspace" key2="delete" key3="copy" key4="paste" key8="selectAll"/>
   </row>
   <row height="1.25">
-    <key key0="switch_numeric" key3="undo" key4="redo" key5="switch_emoji" key7="switch_forward" key8="switch_backward"/>
+    <key key0="switch_numeric" key3="undo" key4="redo" key7="switch_forward" key8="switch_backward"/>
     <key width="3" slider="true" key0="space" key5="left" key6="right"/>
     <key key0="enter" key1="switch_emoji" key3="action"/>
   </row>
