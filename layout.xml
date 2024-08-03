@@ -21,7 +21,7 @@ layout that re-defines it.
 See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
 -->
 
-<keyboard width="6" name="MessagEase DMA">
+<keyboard bottom_row="false" width="6" name="MessagEase DMA">
   <row height="1.25">
     <key key0="5" key1="7" key2="9" key3="1" key4="3" key5="4" key6="6" key7="8" key8="2"/>
     <key key0="a" key3="$" key4="v" key5="£" key6="-" key8="ä"/>
