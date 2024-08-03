@@ -45,6 +45,6 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
   <row height="1.25">
     <key key0="switch_numeric" key3="undo" key4="redo" key5="switch_emoji" key7="switch_forward" key8="switch_backward"/>
     <key width="3" slider="true" key0="space" key5="left" key6="right"/>
-    <key key0="enter" key1="switch_emoji"/>
+    <key key0="enter" key1="switch_emoji" key3="action"/>
   </row>
 </keyboard>
